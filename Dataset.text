@@ -1,0 +1,7 @@
+Inception V3 weights:  https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
+
+Cats & Dogs dataset:  https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
+
+Horses & Humans dataset Training : https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip
+
+                       Validation: https://storage.googleapis.com/laurencemoroney-blog.appspot.com/validation-horse-or-human.zip
